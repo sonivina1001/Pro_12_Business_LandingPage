@@ -4,7 +4,7 @@
 
 ![Time Taken](https://img.shields.io/badge/TIME_TAKEN-05h:30m:00s-blue.svg)
 
-[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-01-street-style-core-html-and-css.netlify.app/)
+[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-12-business-landingpage.netlify.app/)
 
 # Empowering Business.
 
@@ -27,7 +27,7 @@
 
 
 ## Device support 
-<ins>**The site is compatible with desktop/laptop screens and fully responsive.**</ins>
+<ins>**The site is compatible with desktop/laptop screens and fully responsive under 540 width**</ins>
 
 ## 🛠 Skills
 HTML, CSS...
